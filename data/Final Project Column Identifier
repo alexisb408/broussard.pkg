@@ -1,0 +1,12 @@
+For my final project, I will be using the surveys dataset. 
+The surveys dataset contains 9 columns: record_id, month, day, year, plot_id, species_id, sex, hindfoot_length, and weight.
+
+The record_id is a number assigned to a record in a database that helps the scientist or viewers identify it. 
+The month is the month in which the corresponding data was recorded.
+The day is the day of the month in which the corresponding data was recorded. 
+The year is the year in which the corresponding data was recorded. 
+The plot_id specifies the plot type that was used in constructing the data.
+The species_id is a two-letter code that specifies the first letter of the genus and the first letter of the species of the organism being observed.
+The sex specifies whether the organism being tested is either female or male.
+The hindfoot_length is a measure of the organism's hindfoot length that is being observed.
+The weight is a measure of the organism's weight that is being observed. 
